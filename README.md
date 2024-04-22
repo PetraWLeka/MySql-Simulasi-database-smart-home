@@ -1,1 +1,4 @@
 # MySql-Simulasi-database-smart-home
+
+Proyek smart home menggunakan MySQL bertujuan untuk menciptakan simulasi lingkungan rumah yang cerdas dan dapat diatur melalui antarmuka database. Dalam proyek ini, sebuah basis data MySQL digunakan untuk menyimpan informasi pengguna, tipe rumah, perangkat elektronik, sensor, serta riwayat penggunaan dan perubahan. Setiap bagian rumah, seperti kamar dan perangkat elektronik dihubungkan melalui relasi dalam database untuk mengatur interaksi antara pengguna dan lingkungan rumah secara otomatis atau manual. Pengguna dapat mengontrol mode automatic dan guest mode, serta mengatur perangkat elektronik seperti AC, lampu, dan speaker melalui perubahan data dalam database. Dengan demikian, proyek ini menciptakan simulasi yang realistis dan interaktif dari sistem smart home yang dapat diakses dan dikontrol melalui database MySQL.
+
